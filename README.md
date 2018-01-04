@@ -1,12 +1,12 @@
-# cs-in-a-year
-I push all the work that I do to learn CS on my own to this repository. The work usually includes lots of code, 
-and implementations of different algorithms, data structures etc. 
+# Things we do
+A repo to track my progress.
 
 I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.com/), [p1xt guides](https://github.com/P1xt/p1xt-guides) and [OSSU](https://github.com/ossu/computer-science/).
+This is a modified version of [Speedstudy](https://github.com/P1xt/speedstudy)
 
 Date started: 4 / 1 / 2018
 
-You can checkout my progress [here](./progress.md) 
+You can checkout my progress [here](./progress.md)
 ## Rules
 
 1. Always be working on one course.
