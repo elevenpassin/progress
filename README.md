@@ -81,6 +81,12 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 
+- [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
+
+- [ ] [Creative Applications of Deep Learning with TensorFlow II](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-ii/info)
+
+- [ ] [Creative Applications of Deep Learning with TensorFlow III](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iii-iii/info)
+
 - [ ] [Calculus One](https://www.coursera.org/learn/calculus1)
 
 - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
