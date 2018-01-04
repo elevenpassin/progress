@@ -36,7 +36,7 @@ You can checkout my progress [here](./progress.md)
 | Open Source PR                              | 50                    | communication |
 | Module to npm                               | 200                   | communication |
 | Team Up for a project                       | 100                   | communication |
-| Diary entry / Journal | 5                   | communication |
+| Diary entry / Journal                       | 5                     | communication |
 | CodeWars (10 problems)                      | 50                    | algorithms    |
 | CodinGame (1 Tier)                          | 100                   | algorithms    |
 | CodinGame (1 Bot Competition)               | 20                    | algorithms    |
