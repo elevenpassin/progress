@@ -2,9 +2,11 @@
 
 ## Progress
 
-Courses Completed: 0  
+Courses Completed: 0
+Projects Completed: 0
 Total Points earned: 750
 
+### 18.1.4
 | Date Finished | Activity | Points | Links |
 | ------------- | -------- | ------ | ----- |
 | 4 / 1 / 2018 | Duolingo/fr/Common-Phrases/1 | 100 | https://www.duolingo.com/skill/fr/Common-Phrases |
