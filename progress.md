@@ -2,9 +2,14 @@
 
 ## Progress
 
-Courses Completed: 0
-Projects Completed: 0
-Total Points earned: 525
+|  | Points |
+|-                     |-    |
+| Courses Completed:   | 0   |
+| Projects Completed:  | 0   |
+| Total Points earned: | 535 |
+
+Days marked with an * are unproductive / flagged. 
+This data can be useful to analyze my habits and change routines.
 
 ### January
 
@@ -12,4 +17,5 @@ Total Points earned: 525
 |---------|-------|--|
 | 1 | [18.1.4](./log/2018/jan/18.1.4.md) | 155 |
 | 2 | [18.1.5](./log/2018/jan/18.1.5.md) | 255 |
-| 2 | [18.1.6](./log/2018/jan/18.1.6.md) | 115 |
+| 3 | [18.1.6](./log/2018/jan/18.1.6.md) | 115 |
+| 4 | [18.1.7](./log/2018/jan/18.1.7.md) | 10 |
