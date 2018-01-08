@@ -50,7 +50,9 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 
+<!--
 - [ ] [Beginner C++ Game Programming DirectX](https://www.youtube.com/watch?v=PwuIEMUFUnQ&list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx)
+-->
 
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 
