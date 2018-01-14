@@ -6,7 +6,7 @@
 |-                     |-    |
 | Courses Completed:   | 0   |
 | Projects Completed:  | 0   |
-| Total Points earned: | 680 |
+| Total Points earned: | 695 |
 
 Days marked with an * are unproductive / flagged. 
 This data can be useful to analyze my habits and change routines.
@@ -24,3 +24,4 @@ This data can be useful to analyze my habits and change routines.
 | 7* | 18.1.10 | 0 |
 | 8* | 18.1.11 | 0 |
 | 9 | 18.1.12 | 30 |
+| 10 | 18.1.13 | 15 |
