@@ -58,6 +58,10 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 
+- [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+- [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+
 - [ ] [Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
 
 - [ ] [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
@@ -70,7 +74,15 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
 
+- [ ] [Mathematics For Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) 
+
+- [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+
+- [ ] [Design and Analysis Of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+
 - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) 
+
+- [ ] [Google Computer Science Foundations Path](https://techdevguide.withgoogle.com/paths/foundational/)
 
 - [ ] [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
 
@@ -78,10 +90,13 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
 
+- [ ] [Google Computer Science Advanced Path](https://techdevguide.withgoogle.com/paths/advanced/)
 
 - [ ] [Generative Art and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity/info)
 
 - [ ] [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
+
+- [ ] [Google Computer Science Path for Faculty](https://techdevguide.withgoogle.com/paths/faculty/)
 
 - [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 
