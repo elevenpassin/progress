@@ -27,3 +27,5 @@ This data can be useful to analyze my habits and change routines.
 | 10 | [18.1.13](./log/2018/jan/18.1.13.md) | 15 |
 | 11 | [18.1.14](./log/2018/jan/18.1.14.md) | 105 |
 | 12 | [18.1.19](./log/2018/jan/18.1.19.md) | 215 |
+| 13 | [18.1.20](./log/2018/jan/18.1.20.md) | 10 |
+| 14 | [18.1.22](./log/2018/jan/18.1.22.md) | 15 |
