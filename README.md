@@ -56,6 +56,8 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 
+- [ ] [Introductory AP® Microeconomics](https://www.edx.org/course/introductory-apr-microeconomics-mitx-14-01x)
+
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 
 - [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
@@ -75,6 +77,8 @@ You can checkout my progress [here](./progress.md)
 - [ ] [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
 
 - [ ] [Mathematics For Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) 
+
+- [ ] [Microeconomics](https://www.edx.org/course/microeconomics-mitx-14-100x-3)
 
 - [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
