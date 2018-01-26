@@ -50,10 +50,6 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 
-<!--
-- [ ] [Beginner C++ Game Programming DirectX](https://www.youtube.com/watch?v=PwuIEMUFUnQ&list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx)
--->
-
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 
 - [ ] [Introductory AP® Microeconomics](https://www.edx.org/course/introductory-apr-microeconomics-mitx-14-01x)
@@ -140,11 +136,6 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
 
-
-<!--
-- [ ] [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x)
--->
-
 - [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
 - [ ] [Cryptography I](https://www.coursera.org/learn/crypto)
@@ -159,7 +150,13 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
 
-<!--
+## Dump
+A list of things I really want to go through, but you can only do so many at a given time! I think this is the place I'll put anything else that comes up to my interest. Later on as I finish tasks, I will add tasks to the course. :) 
+
+- [ ] [Beginner C++ Game Programming DirectX](https://www.youtube.com/watch?v=PwuIEMUFUnQ&list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx)
+
+- [ ] [Introduction to Cloud Infrastructure Technologies](https://www.edx.org/course/introduction-cloud-infrastructure-linuxfoundationx-lfs151-x)
+
 - [ ] [Operating Systems and System Programming](https://theopenacademy.com/content/operating-systems-and-system-programming)
 
 - [ ] [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
@@ -169,4 +166,47 @@ You can checkout my progress [here](./progress.md)
 - [ ] [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
 - [ ] [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)
--->
+
+- [ ] [Quantum Algorithms via Linear Algebra](https://mitpress.mit.edu/books/quantum-algorithms-linear-algebra)
+
+- [ ] [The Lambda Calculus](https://plato.stanford.edu/entries/lambda-calculus/)
+
+- [ ] [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)
+
+- [ ] [Models in Science](https://plato.stanford.edu/entries/models-science/)
+
+- [ ] [Metaphor](https://plato.stanford.edu/entries/metaphor/)
+
+- [ ] [Introduction To Research](https://www.library.cornell.edu/research/introduction)
+
+- [ ] [Automated Reasoning](https://plato.stanford.edu/entries/reasoning-automated)
+
+- [ ] [Computation in Physical Systems](https://plato.stanford.edu/entries/computation-physicalsystems/)
+
+- [ ] [Computability & Complexity](https://plato.stanford.edu/entries/computability/)
+
+- [ ] [Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/)
+
+- [ ] [Computer and Information Ethics](https://plato.stanford.edu/entries/ethics-computer/)
+
+- [ ] [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
+
+- [ ] []()
+
+- [ ] []()
+
+- [ ] []()
+
+- [ ] []()
+
+- [ ] []()
+
+- [ ] []()
+
+- [ ] []()
+
+- [ ] []()
+
+- [ ] []()
+
+- [ ] []()
