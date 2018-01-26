@@ -82,6 +82,8 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) 
 
+- [ ] [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code)
+
 - [ ] [Google Computer Science Foundations Path](https://techdevguide.withgoogle.com/paths/foundational/)
 
 - [ ] [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
