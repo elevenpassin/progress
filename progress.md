@@ -6,7 +6,7 @@
 |-                     |-    |
 | Courses Completed:   | 0   |
 | Projects Completed:  | 0   |
-| Total Points earned: | 1015 |
+| Total Points earned: | 1170 |
 
 Days marked with an * are unproductive / flagged. 
 This data can be useful to analyze my habits and change routines.
@@ -30,3 +30,5 @@ This data can be useful to analyze my habits and change routines.
 | 13 | [18.1.20](./log/2018/jan/18.1.20.md) | 10 |
 | 14 | [18.1.22](./log/2018/jan/18.1.22.md) | 15 |
 | 15 | [18.1.24](./log/2018/jan/18.1.24.md) | 110 | 
+| 16 | [18.1.25](./log/2018/jan/18.1.25.md) | 10 | 
+| 17 | [18.1.27](./log/2018/jan/18.1.27.md) | 10 | 

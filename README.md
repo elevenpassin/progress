@@ -140,6 +140,8 @@ You can checkout my progress [here](./progress.md)
 
 - [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
+- [ ] [Hacker101](https://www.hacker101.com/)
+
 - [ ] [Cryptography I](https://www.coursera.org/learn/crypto)
 
 - [ ] [Cryptography II](https://www.coursera.org/learn/crypto2)
