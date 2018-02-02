@@ -30,6 +30,7 @@ You can checkout my progress [here](./progress.md)
 | Crowd Analytix Competition                  | 50                    | data-science  |
 | Kaggle Competition                          | 50                    | data-science  |
 | Driven Data Competition                     | 50                    | data-science  |
+| Design Competition                          | 50                    | design        |
 | Blog Post on any topic                      | 15                    | communication |
 | Blog Post Tutorial                          | 40                    | communication |
 | Video Tutorial                              | 50                    | communication |
