@@ -27,6 +27,12 @@ Books I am reading related to computer science.
 | [What if?](https://www.amazon.in/What-If-Randall-Munroe/dp/1848549563/ref=sr_1_2?ie=UTF8&qid=1516419083&sr=8-2&keywords=What+if%3F) | [ ] |
 | [How to lie with statistics](https://www.amazon.in/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=sr_1_1?ie=UTF8&qid=1516419128&sr=8-1&keywords=How+to+Lie+With+Statistics) | [ ] |
 | [The Magic of Reality: How We Know What's Really True](https://www.amazon.in/Magic-Reality-Know-Whats-Really/dp/0552778907/ref=pd_bxgy_14_img_3?_encoding=UTF8&psc=1&refRID=JAGYVDTS4BB99RZX7652) | [ ] |
+| [Python Data Science Book](https://jakevdp.github.io/PythonDataScienceHandbook/) | [ ] |
+| [Robust Client-Side Javascript](https://molily.de/robust-javascript/) | [ ] |
+| [A Premier on bezier curves](https://pomax.github.io/bezierinfo/#preface) | [ ] |
+| [Deep learning book](http://www.deeplearningbook.org/) | [ ] |
+| []() | [ ] |
+| []() | [ ] |
 | []() | [ ] |
 | []() | [ ] |
 | []() | [ ] |
