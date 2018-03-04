@@ -49,7 +49,7 @@ You can checkout my progress [here](./progress.md)
 
 ## Computer Science Intensive
 
-- [ ] [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+- [x] [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 
