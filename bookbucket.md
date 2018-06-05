@@ -3,8 +3,14 @@ Books I am reading related to computer science.
 
 | Book | Read |
 |------|------|
+| [Pro Git](https://git-scm.com/book/en/v2) | [x] |
+| [Robust Client-Side Javascript](https://molily.de/robust-javascript/) | [x] |
+| [Eloquent JavaScript](https://eloquentjavascript.net/) | [ ] |
+| [Measure What Matters](https://www.amazon.in/Measure-What-Matters-John-Doerr/dp/024134848X/ref=sr_1_1?ie=UTF8&qid=1526821130&sr=8-1&keywords=measure+what+matters) | [ ] |
+| [ Principles Of Microeconomics ](https://openstax.org/details/books/principles-microeconomics) | [ ] |
 | How to Design Programs | [ ] |
 | Mathematics for Computer Science | [ ] |
+| [Speaking Javascript](http://speakingjs.com/) | [ ] |
 | [Energy and Civilization – A History](https://www.amazon.in/dp/0262035774/_encoding=UTF8?coliid=I34TD0OWI5SIV5&colid=2WP4R14TWN96B&psc=0) | [ ] |
 | [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.in/dp/0198739834/_encoding=UTF8?coliid=I34KXO16UTSE5Y&colid=2WP4R14TWN96B&psc=0) | [ ] |
 | [The Intelligent Investor (English) Paperback – 2013](https://www.amazon.in/dp/0062312685/_encoding=UTF8?coliid=I37FVNE425JKS4&colid=2WP4R14TWN96B&psc=0) | [ ] |
@@ -24,13 +30,18 @@ Books I am reading related to computer science.
 | [Sustainable Materials - with both eyes open: Future buildings, vehicles, products and equipment - made efficiently and made with less new material (without the hot air)](https://www.amazon.in/Sustainable-Materials-buildings-equipment-efficiently/dp/1906860076/ref=sr_1_1?ie=UTF8&qid=1516418930&sr=8-1&keywords=Sustainable+materials+with+both+eyes+open) | [ ] |
 | [The Road to Character](https://www.amazon.in/Road-Character-David-Brooks/dp/0141980362/ref=sr_1_1?ie=UTF8&qid=1516418970&sr=8-1&keywords=The+road+to+character) | [ ] |
 | [Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened](https://www.amazon.in/Hyperbole-Half-Unfortunate-Situations-Mechanisms/dp/0224095374/ref=sr_1_1?ie=UTF8&qid=1516419050&sr=8-1&keywords=Hyperbole+and+half) | [ ] |
+| [A Premier on bezier curves](https://pomax.github.io/bezierinfo/#preface) | [ ] |
 | [What if?](https://www.amazon.in/What-If-Randall-Munroe/dp/1848549563/ref=sr_1_2?ie=UTF8&qid=1516419083&sr=8-2&keywords=What+if%3F) | [ ] |
 | [How to lie with statistics](https://www.amazon.in/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=sr_1_1?ie=UTF8&qid=1516419128&sr=8-1&keywords=How+to+Lie+With+Statistics) | [ ] |
 | [The Magic of Reality: How We Know What's Really True](https://www.amazon.in/Magic-Reality-Know-Whats-Really/dp/0552778907/ref=pd_bxgy_14_img_3?_encoding=UTF8&psc=1&refRID=JAGYVDTS4BB99RZX7652) | [ ] |
 | [Python Data Science Book](https://jakevdp.github.io/PythonDataScienceHandbook/) | [ ] |
-| [Robust Client-Side Javascript](https://molily.de/robust-javascript/) | [ ] |
-| [A Premier on bezier curves](https://pomax.github.io/bezierinfo/#preface) | [ ] |
 | [Deep learning book](http://www.deeplearningbook.org/) | [ ] |
+| [Javascript Allonge](https://leanpub.com/javascriptallongesix/read) | [ ] |
+| [Game Programming Patterns](http://gameprogrammingpatterns.com/) | [ ] |
+| [Mathematics For Machine Learning](https://mml-book.github.io/) | [ ] |
+| []() | [ ] |
+| []() | [ ] |
+| []() | [ ] |
 | []() | [ ] |
 | []() | [ ] |
 | []() | [ ] |
