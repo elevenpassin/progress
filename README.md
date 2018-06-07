@@ -2,48 +2,13 @@
 A repo to track my progress.
 
 I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.com/), [p1xt guides](https://github.com/P1xt/p1xt-guides) and [OSSU](https://github.com/ossu/computer-science/).
-This is a modified version of [Speedstudy](https://github.com/P1xt/speedstudy)
 
 Date started: 4 / 1 / 2018
 
-You can checkout my progress [here](./progress.md)
 ## Rules
 
 1. Always be working on one course.
-1. Add bonus objectives from bonus list as often as desired.
-1. All Assignments must be complete for course to be considered complete.
-
-## Bonus List
-
-| Activity                                    | Points for completing | Activity type |
-| ------------------------------------------- | --------------------- | ------------- |
-| Basic Project                               | 100                   | project       |
-| Substantial Project                         | 200                   | project       |
-| Large Project                               | 300                   | project       |
-| Gigantic Project                            | 400                   | project       |
-| Duolingo (1 level)                          | 100                   | foundation    |
-| Book                                        | 200                   | foundation    |
-| Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
-| University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
-| Physical Activity (30 minutes)                          | 10                    | foundation    |
-| Analytics Vidhya Competition                | 50                    | data-science  |
-| Crowd Analytix Competition                  | 50                    | data-science  |
-| Kaggle Competition                          | 50                    | data-science  |
-| Driven Data Competition                     | 50                    | data-science  |
-| Design Competition                          | 50                    | design        |
-| Blog Post on any topic                      | 15                    | communication |
-| Blog Post Tutorial                          | 40                    | communication |
-| Video Tutorial                              | 50                    | communication |
-| Open Source PR                              | 50                    | communication |
-| Module to npm                               | 200                   | communication |
-| Team Up for a project                       | 100                   | communication |
-| Diary entry / Journal                       | 5                     | communication |
-| CodeWars (10 problems)                      | 50                    | algorithms    |
-| CodinGame (1 Tier)                          | 100                   | algorithms    |
-| CodinGame (1 Bot Competition)               | 20                    | algorithms    |
-| HackerRank (10 problems)                    | 50                    | algorithms    |
-| Google Code Jam (1 round from past contest) | 100                   | algorithms    |
-
+2. All Assignments must be complete for course to be considered complete.
 
 # Challenge - 2018
 
@@ -51,9 +16,9 @@ You can checkout my progress [here](./progress.md)
 
 - [x] [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 
-- [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+- [ ] [Principles Of Microeconomics](https://openstax.org/details/books/principles-microeconomics)
 
-- [ ] [Introductory AP® Microeconomics](https://www.edx.org/course/introductory-apr-microeconomics-mitx-14-01x)
+- [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 
@@ -74,8 +39,6 @@ You can checkout my progress [here](./progress.md)
 - [ ] [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
 
 - [ ] [Mathematics For Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) 
-
-- [ ] [Microeconomics](https://www.edx.org/course/microeconomics-mitx-14-100x-3)
 
 - [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
