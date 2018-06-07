@@ -12,13 +12,21 @@ Date started: 4 / 1 / 2018
 
 # Challenge - 2018
 
-## Computer Science Intensive
+## Computer Science Intensive (With Web development :D)
 
 - [x] [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 
-- [ ] [Principles Of Microeconomics](https://openstax.org/details/books/principles-microeconomics)
-
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+
+- [ ] [Introduction to VueJS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+
+- [ ] [React testing Cookbook](https://egghead.io/courses/react-testing-cookbook)
+
+- [ ] [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
+
+- [ ] [Getting Started With Redux](https://egghead.io/courses/getting-started-with-redux)
+
+- [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 
