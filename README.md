@@ -16,13 +16,13 @@ Date started: 4 / 1 / 2018
 
 - [x] [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 
-- [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
-
 - [ ] [Introduction to VueJS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 
 - [ ] [React testing Cookbook](https://egghead.io/courses/react-testing-cookbook)
 
 - [ ] [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
+
+- [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 
 - [ ] [Getting Started With Redux](https://egghead.io/courses/getting-started-with-redux)
 
