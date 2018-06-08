@@ -16,7 +16,7 @@ Date started: 4 / 1 / 2018
 
 - [x] [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 
-- [ ] [Introduction to VueJS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+- [x] [Introduction to VueJS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 
 - [ ] [React testing Cookbook](https://egghead.io/courses/react-testing-cookbook)
 
