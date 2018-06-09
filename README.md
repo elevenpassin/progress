@@ -18,15 +18,7 @@ Date started: 4 / 1 / 2018
 
 - [x] [Introduction to VueJS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 
-- [ ] [React testing Cookbook](https://egghead.io/courses/react-testing-cookbook)
-
-- [ ] [Advanced React Component Patterns](https://egghead.io/courses/advanced-react-component-patterns)
-
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
-
-- [ ] [Getting Started With Redux](https://egghead.io/courses/getting-started-with-redux)
-
-- [ ] [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
 
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 
