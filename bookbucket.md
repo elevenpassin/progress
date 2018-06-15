@@ -43,7 +43,7 @@ Books I am reading related to computer science.
 | [Game Programming Patterns](http://gameprogrammingpatterns.com/) | [ ] |
 | [Mathematics For Machine Learning](https://mml-book.github.io/) | [ ] |
 | [Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think By Hans Rosling](https://www.amazon.in/Factfulness-Reasons-Wrong-Things-Better/dp/1473637465) | [ ] |
-| []() | [ ] |
+| [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/_/dp/1491973897?tag=oreilly20-20) | [ ] |
 | []() | [ ] |
 | []() | [ ] |
 | []() | [ ] |
