@@ -18,9 +18,19 @@ Date started: 4 / 1 / 2018
 
 - [x] [Introduction to VueJS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 
+- [ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 
+- [ ] [The Science Of Well Being](https://www.coursera.org/learn/the-science-of-well-being)
+
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
+
+- [ ] [Career Success Specialization](https://www.coursera.org/specializations/career-success)
+
+- [ ] [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
+
+- [ ] [Introduction to Project Management Principles and Practices Specialization](https://www.coursera.org/specializations/project-management)
 
 - [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
