@@ -50,8 +50,8 @@ Books I am reading related to computer science.
 | [Intergral calculus by Amit M Agarwal]() | [ ] |
 | [Differential calculus by Amit M Agarwal]() | [ ] |
 | [Advanced Calculus - Titu Andressu's Putnam and Beyond]() | [ ] |
-| []() | [ ] |
-| []() | [ ] |
+| [Elasticsearch - The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/index.html) | [ ] |
+| [Fluent in 3 Months by Benny Lewis]() | [ ] |
 | []() | [ ] |
 | []() | [ ] |
 | []() | [ ] |
