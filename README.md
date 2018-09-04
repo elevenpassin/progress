@@ -18,7 +18,23 @@ Date started: 4 / 1 / 2018
 
 - [x] [Introduction to VueJS](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 
-- [ ] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+- [x] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
+
+- [ ] Learn C#
+
+- [ ] Learn .NET Core
+
+- [ ] Learn Docker
+
+- [ ] [GCP] Learn App Engine
+
+- [ ] [GCP] Learn Compute Engine
+
+- [ ] [GCP] Learn Kubernetes Engine
+
+- [ ] [GCP] Learn Cloud SQL
+
+- [x] [GCP] Learn Pub/Sub
 
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 
