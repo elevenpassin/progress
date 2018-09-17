@@ -1,12 +1,13 @@
 # Book bucket
+
 Books I am reading related to computer science.
 
 | Book | Read |
 |------|------|
 | [Pro Git](https://git-scm.com/book/en/v2) | [x] |
 | [Robust Client-Side Javascript](https://molily.de/robust-javascript/) | [x] |
-| [Eloquent JavaScript](https://eloquentjavascript.net/) | [ ] |
 | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/) | [ ] |
+| [Eloquent JavaScript](https://eloquentjavascript.net/) | [ ] |
 | [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) | [ ] |
 | [Measure What Matters](https://www.amazon.in/Measure-What-Matters-John-Doerr/dp/024134848X/ref=sr_1_1?ie=UTF8&qid=1526821130&sr=8-1&keywords=measure+what+matters) | [ ] |
 | [Material Design Guidelines](https://material.io/) | [ ] |

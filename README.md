@@ -20,41 +20,37 @@ Date started: 4 / 1 / 2018
 
 - [x] [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
 
-- [ ] Learn C#
-
-- [ ] Learn .NET Core
-
-- [ ] Learn Docker
-
-- [ ] [GCP] Learn App Engine
-
-- [ ] [GCP] Learn Compute Engine
-
-- [ ] [GCP] Learn Kubernetes Engine
-
-- [ ] [GCP] Learn Cloud SQL
-
-- [x] [GCP] Learn Pub/Sub
-
 - [ ] [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+
+- [ ] [Game Design: Art and Concepts Specialization](https://www.coursera.org/specializations/game-design)
 
 - [ ] [The Science Of Well Being](https://www.coursera.org/learn/the-science-of-well-being)
 
 - [ ] [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 
-- [ ] [Career Success Specialization](https://www.coursera.org/specializations/career-success)
-
-- [ ] [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
-
-- [ ] [Introduction to Project Management Principles and Practices Specialization](https://www.coursera.org/specializations/project-management)
+- [ ] [Creative Writing Specialization](https://www.coursera.org/specializations/creative-writing)
 
 - [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
+- [ ] [Career Success Specialization](https://www.coursera.org/specializations/career-success)
+
 - [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+
+- [ ] [Leading People and Teams](https://www.coursera.org/specializations/leading-teams)
+
+- [ ] [Software Testing](https://www.udacity.com/course/software-testing--cs258)
+
+- [ ] [Digital Marketing Specialization](https://www.coursera.org/specializations/digital-marketing)
+
+- [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
 - [ ] [Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
 
+- [ ] [Introduction to Project Management Principles and Practices Specialization](https://www.coursera.org/specializations/project-management)
+
 - [ ] [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
+
+- [ ] [Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations)
 
 - [ ] [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 
@@ -64,13 +60,13 @@ Date started: 4 / 1 / 2018
 
 - [ ] [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)
 
-- [ ] [Mathematics For Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/) 
+- [ ] [Mathematics For Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 
 - [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 
 - [ ] [Design and Analysis Of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
-- [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) 
+- [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 
 - [ ] [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code)
 
@@ -105,10 +101,6 @@ Date started: 4 / 1 / 2018
 - [ ] [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 
 - [ ] [Analysis Of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
-
-- [ ] [Software Testing](https://www.udacity.com/course/software-testing--cs258)
-
-- [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
 - [ ] [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 
