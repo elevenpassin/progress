@@ -11,7 +11,7 @@ Books I am reading related to computer science.
 | [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) | [ ] |
 | [Measure What Matters](https://www.amazon.in/Measure-What-Matters-John-Doerr/dp/024134848X/ref=sr_1_1?ie=UTF8&qid=1526821130&sr=8-1&keywords=measure+what+matters) | [ ] |
 | [Material Design Guidelines](https://material.io/) | [ ] |
-| [ Principles Of Microeconomics ](https://openstax.org/details/books/principles-microeconomics) | [ ] |
+| [Principles Of Microeconomics](https://openstax.org/details/books/principles-microeconomics) | [ ] |
 | Mathematics for Computer Science | [ ] |
 | [Speaking Javascript](http://speakingjs.com/) | [ ] |
 | [Energy and Civilization – A History](https://www.amazon.in/dp/0262035774/_encoding=UTF8?coliid=I34TD0OWI5SIV5&colid=2WP4R14TWN96B&psc=0) | [ ] |
@@ -53,6 +53,18 @@ Books I am reading related to computer science.
 | [Advanced Calculus - Titu Andressu's Putnam and Beyond]() | [ ] |
 | [Elasticsearch - The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/index.html) | [ ] |
 | [Fluent in 3 Months by Benny Lewis]() | [ ] |
+| [Gross Anatomy: Dispatches from the Front (and Back) by Mara Altman](https://www.goodreads.com/book/show/37702749-gross-anatomy) | [ ] |
+| [Life After Faith]() | [ ] |
+| [Sensible Religion]() | [ ] |
+| [Joan Chittister: Essential Writings]() | [ ] |
+| [With Heart in Mind]() | [ ] |
+| [Embracing the Divine Feminine: The Song of Songs]() | [ ] |
+| [A New Buddhist Path]() | [ ] |
+| [God’s Message to the World]() | [ ] |
+| [The Religion of the Future]() | [ ] |
+| []() | [ ] |
+| []() | [ ] |
+| []() | [ ] |
 | []() | [ ] |
 | []() | [ ] |
 | []() | [ ] |
