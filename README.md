@@ -199,4 +199,5 @@ A list of things I really want to go through, but you can only do so many at a g
   - [ ] Game 3
 - [ ] Write 30 articles on various topics
 - [ ] Read 10 books (5 fiction, 5 non fiction)
-- [ ] Get rid of Google, Twitter
+- [ ] Get rid of Google, Twitter, Facebook and Microsoft from your life as much as possible
+- [ ] Finish 6 Courses at least.
