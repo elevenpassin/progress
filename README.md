@@ -191,6 +191,7 @@ A list of things I really want to go through, but you can only do so many at a g
 ### Goals
 
 - [ ] Ship Pavonine App Version 1 & 2
+- [ ] Finish all the projects in courses
 - [ ] Build a fully featured note taking app
 - [ ] Build 3 story based games
   - [ ] Game 1
@@ -198,3 +199,4 @@ A list of things I really want to go through, but you can only do so many at a g
   - [ ] Game 3
 - [ ] Write 30 articles on various topics
 - [ ] Read 10 books (5 fiction, 5 non fiction)
+- [ ] Get rid of Google, Twitter

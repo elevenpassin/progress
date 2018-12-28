@@ -62,3 +62,16 @@ Books I am reading related to computer science.
 |56| [A New Buddhist Path]() | [ ] |
 |57| [God’s Message to the World]() | [ ] |
 |58| [The Religion of the Future]() | [ ] |
+|59| [Six Easy Pieces By Richard Feynman]() | [ ] |
+|60| [Six Not so Easy Pieces By Richard Feynman]() | [ ] |
+|61| [Alex's Adventures in Numberland by Alex Bellos]() | [ ] |
+|62| [Physics of the Impossible by Michio Kaku]() | [ ] |
+|63| [Quantum by Manjit Kumar]() | [ ] |
+|64| [In Search of Schrodinger's Cat, By John Gribbin ]() | [ ] |
+|65| [The Elegant Universe by Brian Greene]() | [ ] |
+|66| [Mathematical Methods for Physics and Engineering: A Comprehensive Guide By  K. F. Riley (Author), M. P. Hobson (Author), S. J. Bence (Author)](https://www.amazon.co.uk/gp/product/0521679710/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=simon05d-21&creative=6738&linkCode=as2&creativeASIN=0521679710&linkId=46252c77a77e4789996e7e4d0ae6ebba) | [ ] |
+|67| [Fundamentals of Physics by David Halliday]() | [ ] |
+|68| [Div, Grad, Curl, and All That: An Informal Text on Vector Calculus by Hm Schey ]() | [ ] |
+|69| [Concepts in Thermal Physics (Second edition) by 	Stephen J. Blundell (Author), Katherine M. Blundell ]() | [ ] |
+|70| [Student Solution Manual for Mathematical Methods for Physics and Engineering Third Edition](https://www.amazon.co.uk/Student-Solution-Mathematical-Methods-Engineering/dp/0521679737/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0521679737&pd_rd_r=63b6f764-0ae3-11e9-bd28-ff71892385d5&pd_rd_w=EYMiB&pd_rd_wg=vib1E&pf_rd_p=466c8fd0-3653-4c9b-86fa-f9bc8fd2ae35&pf_rd_r=EZXCHMH72NFV0EDEQB1W&psc=1&refRID=EZXCHMH72NFV0EDEQB1W) | [] |
+|71| [The Visual Display of Quantitative Information by Edward R. Tufte]() | [] |
