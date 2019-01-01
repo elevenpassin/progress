@@ -2,6 +2,25 @@
 
 Books I am reading related to computer science.
 
+
+## Books I read in 2018
+
+| Serial | Book | Read |
+|------|------|------|
+| 1 | [Pro Git](https://git-scm.com/book/en/v2) | [x] |
+| 2 | [Robust Client-Side Javascript](https://molily.de/robust-javascript/) | [x] |
+| 3 | [My favourite Nature Stories by Ruskin Bond](#) | [x] |
+
+## 2019 I will read in 2019
+
+| 1 | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/) | [ ] |
+| 2 | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/) | [ ] |
+| 3 | [Alex's Adventures in Numberland by Alex Bellos]() | [ ] |
+| 4 | [The Heartfullness Way by Kamlesh D Patel]() | [ ] |
+| 5 | [Alan Turing, the Enigma A. Hodges (Vintage, 1992)]() | [ ] |
+
+## Dump
+
 | Serial | Book | Read |
 |------|------|------|
 | 1 | [Pro Git](https://git-scm.com/book/en/v2) | [x] |
@@ -75,3 +94,4 @@ Books I am reading related to computer science.
 |69| [Concepts in Thermal Physics (Second edition) by 	Stephen J. Blundell (Author), Katherine M. Blundell ]() | [ ] |
 |70| [Student Solution Manual for Mathematical Methods for Physics and Engineering Third Edition](https://www.amazon.co.uk/Student-Solution-Mathematical-Methods-Engineering/dp/0521679737/ref=pd_bxgy_14_img_2?_encoding=UTF8&pd_rd_i=0521679737&pd_rd_r=63b6f764-0ae3-11e9-bd28-ff71892385d5&pd_rd_w=EYMiB&pd_rd_wg=vib1E&pf_rd_p=466c8fd0-3653-4c9b-86fa-f9bc8fd2ae35&pf_rd_r=EZXCHMH72NFV0EDEQB1W&psc=1&refRID=EZXCHMH72NFV0EDEQB1W) | [] |
 |71| [The Visual Display of Quantitative Information by Edward R. Tufte]() | [] |
+| 72 | [My favourite Nature Stories by Ruskin Bond](#) | [x] |

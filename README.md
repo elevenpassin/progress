@@ -188,16 +188,30 @@ A list of things I really want to go through, but you can only do so many at a g
 
 - [ ] []() -->
 
-### Goals
+### Goals (Overall, in order of priority)
 
+- [ ] Love yourself more <3
+- [ ] VOICE TRAINING GURL
 - [ ] Ship Pavonine App Version 1 & 2
-- [ ] Finish all the projects in courses
-- [ ] Build a fully featured note taking app
+- [ ] Do consistant yoga
+- [ ] Read 10 books (5 fiction, 5 non fiction) (or 5 is good enough!)
+- [ ] Finish 6 Courses at least.
+- [ ] Get rid of Google, Twitter, Facebook and Microsoft from your life as much as possible
 - [ ] Build 3 story based games
   - [ ] Game 1
   - [ ] Game 2
   - [ ] Game 3
 - [ ] Write 30 articles on various topics
-- [ ] Read 10 books (5 fiction, 5 non fiction)
-- [ ] Get rid of Google, Twitter, Facebook and Microsoft from your life as much as possible
-- [ ] Finish 6 Courses at least.
+- [ ] Rock climbing, hiking, moutain climbing, sky diving? :O
+- [ ] Less outside food!
+- [ ] Build a fully featured note taking app
+
+## Books for 2019
+
+| Serial | Book | Read |
+|------|------|------|
+| 1 | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/) | [ ] |
+| 2 | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/) | [ ] |
+| 3 | [Alex's Adventures in Numberland by Alex Bellos]() | [ ] |
+| 4 | [The Heartfullness Way by Kamlesh D Patel]() | [ ] |
+| 5 | [Alan Turing, the Enigma A. Hodges (Vintage, 1992)]() | [ ] |
