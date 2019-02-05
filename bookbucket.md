@@ -17,7 +17,7 @@ Books I am reading related to computer science.
 | 1      | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/)     | [ ]  |
 | 2      | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/) | [ ]  |
 | 3      | [Alex's Adventures in Numberland by Alex Bellos]()                 | [ ]  |
-| 4      | [The Heartfullness Way by Kamlesh D Patel]()                       | [ ]  |
+| 4      | [Competative Programmer's Handbook]()                              | [ ]  |
 | 5      | [Alan Turing, the Enigma A. Hodges (Vintage, 1992)]()              | [ ]  |
 
 ## Dump
