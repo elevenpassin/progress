@@ -2,6 +2,16 @@
 
 Books I am reading related to computer science.
 
+## 2019 I will read in 2019
+
+| Serial | Book                                                                | Read |
+| ------ | ------------------------------------------------------------------- | ---- |
+| 1      | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/)      | [ ]  |
+| 2      | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)  | [ ]  |
+| 3      | Alex's Adventures in Numberland by Alex Bellos                      | [ ]  |
+| 4      | Discrete Mathematics And Functional Programming by Thomas VanDrunen | [ ]  |
+| 5      | Alan Turing, the Enigma A. Hodges (Vintage, 1992)                   | [ ]  |
+
 ## Books I read in 2018
 
 | Serial | Book                                                                  | Read |
@@ -9,16 +19,6 @@ Books I am reading related to computer science.
 | 1      | [Pro Git](https://git-scm.com/book/en/v2)                             | [x]  |
 | 2      | [Robust Client-Side Javascript](https://molily.de/robust-javascript/) | [x]  |
 | 3      | [My favourite Nature Stories by Ruskin Bond](#)                       | [x]  |
-
-## 2019 I will read in 2019
-
-| Serial | Book                                                               | Read |
-| ------ | ------------------------------------------------------------------ | ---- |
-| 1      | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/)     | [ ]  |
-| 2      | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/) | [ ]  |
-| 3      | [Alex's Adventures in Numberland by Alex Bellos]()                 | [ ]  |
-| 4      | [The Heartfullness Way by Kamlesh D Patel]()                       | [ ]  |
-| 5      | [Alan Turing, the Enigma A. Hodges (Vintage, 1992)]()              | [ ]  |
 
 ## Dump
 
