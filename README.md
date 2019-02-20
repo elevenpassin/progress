@@ -13,7 +13,7 @@ Date started: 1/1/2019
 - [ ] Love yourself more <3
 - [ ] VOICE TRAINING GURL
 - [ ] Ship Pavonine App Version 1 & 2
-- [ ] Do consistant yoga
+- [ ] Do consistant yoga / jogging
 - [ ] Read 10 books (5 fiction, 5 non fiction) (or 5 is good enough!)
 - [ ] Finish 6 Courses at least.
 - [ ] Get rid of Google, Twitter, Facebook and Microsoft from your life as much as possible

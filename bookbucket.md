@@ -4,13 +4,15 @@ Books I am reading related to computer science.
 
 ## 2019 I will read in 2019
 
-| Serial | Book                                                                | Read |
+| Serial | Book / Article / Series / Code                                      | Read |
 | ------ | ------------------------------------------------------------------- | ---- |
 | 1      | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/)      | [ ]  |
 | 2      | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)  | [ ]  |
 | 3      | Alex's Adventures in Numberland by Alex Bellos                      | [ ]  |
 | 4      | Discrete Mathematics And Functional Programming by Thomas VanDrunen | [ ]  |
 | 5      | Alan Turing, the Enigma A. Hodges (Vintage, 1992)                   | [ ]  |
+| 6      | [Typescript documentation](https://typescriptlang.org/)             | [ ]  |
+| 7      | [Redux Documentation](https://redux.js.org/)                        | [ ]  |
 
 ## Books I read in 2018
 
