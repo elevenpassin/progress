@@ -190,11 +190,12 @@ A list of things I really want to go through, but you can only do so many at a g
 
 - [ ] [The Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
 
+- [ ] [Hacker Tools](https://hacker-tools.github.io/)
+
+- [ ] [UCLA Computer Science 35L, Winter 2019. Software Construction Laboratory](https://web.cs.ucla.edu/classes/winter19/cs35L/)
+
 <!-- - [ ] []()
 
-- [ ] []()
-
-- [ ] []()
 
 - [ ] []()
 
