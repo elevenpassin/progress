@@ -4,15 +4,17 @@ Books I am reading related to computer science.
 
 ## 2019 I will read in 2019
 
-| Serial | Book / Article / Series / Code                                      | Read |
-| ------ | ------------------------------------------------------------------- | ---- |
-| 1      | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/)      | [ ]  |
-| 2      | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)  | [ ]  |
-| 3      | Alex's Adventures in Numberland by Alex Bellos                      | [ ]  |
-| 4      | Discrete Mathematics And Functional Programming by Thomas VanDrunen | [ ]  |
-| 5      | Alan Turing, the Enigma A. Hodges (Vintage, 1992)                   | [ ]  |
-| 6      | [Typescript documentation](https://typescriptlang.org/)             | [ ]  |
-| 7      | [Redux Documentation](https://redux.js.org/)                        | [ ]  |
+| Serial | Book / Article / Series / Code                                              | Read |
+| ------ | --------------------------------------------------------------------------- | ---- |
+| 1      | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/)              | [ ]  |
+| 2      | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)          | [ ]  |
+| 3      | Alex's Adventures in Numberland by Alex Bellos                              | [ ]  |
+| 4      | Discrete Mathematics And Functional Programming by Thomas VanDrunen         | [ ]  |
+| 5      | Alan Turing, the Enigma A. Hodges (Vintage, 1992)                           | [ ]  |
+| 6      | [Typescript documentation](https://typescriptlang.org/)                     | [ ]  |
+| 7      | [Redux Documentation](https://redux.js.org/)                                | [ ]  |
+| 8      | [VueJS Documentation](https://vuejs.org/v2/guide/)                          | [ ]  |
+| 9      | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) | [ ]  |
 
 ## Books I read in 2018
 
@@ -67,7 +69,7 @@ Books I am reading related to computer science.
 | 39     | [Mathematics For Machine Learning](https://mml-book.github.io/)                                                                                                                                                                                                                                                                                                                                                                     | [ ]  |
 | 40     | [Factfulness: Ten Reasons We're Wrong About the World - and Why Things Are Better Than You Think By Hans Rosling](https://www.amazon.in/Factfulness-Reasons-Wrong-Things-Better/dp/1473637465)                                                                                                                                                                                                                                      | [ ]  |
 | 41     | [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/_/dp/1491973897?tag=oreilly20-20)                                                                                                                                                                                                                                                                                                | [ ]  |
-| 42     | [Elements Of Coordinate Geometry By S.L Loney]()                                                                                                                                                                                                                                                                                                                                                                                    | [ ]  |
+| 42     | [Elements Of Coordinate Geometry By S.L Loney](#)                                                                                                                                                                                                                                                                                                                                                                                   | [ ]  |
 | 43     | [Hall and Knight for fast calculations, algebra and trigonometry skills By Arihant]()                                                                                                                                                                                                                                                                                                                                               | [ ]  |
 | 44     | [Principles Of Physics By Ni Jun]()                                                                                                                                                                                                                                                                                                                                                                                                 | [ ]  |
 | 45     | [Intergral calculus by Amit M Agarwal]()                                                                                                                                                                                                                                                                                                                                                                                            | [ ]  |
