@@ -15,7 +15,7 @@ Books I am reading related to computer science.
 | 7      | [Redux Documentation](https://redux.js.org/)                                | [ ]  |
 | 8      | [VueJS Documentation](https://vuejs.org/v2/guide/)                          | [ ]  |
 | 9      | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) | [ ]  |
-
+| 10     | Confessions Of an Economic Hitman by John Perkins                           | [ ]  |
 ## Books I read in 2018
 
 | Serial | Book                                                                  | Read |
