@@ -4,18 +4,19 @@ Books I am reading related to computer science.
 
 ## 2019 I will read in 2019
 
-| Serial | Book / Article / Series / Code                                              | Read |
-| ------ | --------------------------------------------------------------------------- | ---- |
-| 1      | [How to Design Programs](http://www.htdp.org/2018-01-06/Book/)              | [ ]  |
-| 2      | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)          | [ ]  |
-| 3      | Alex's Adventures in Numberland by Alex Bellos                              | [ ]  |
-| 4      | Discrete Mathematics And Functional Programming by Thomas VanDrunen         | [ ]  |
-| 5      | Alan Turing, the Enigma A. Hodges (Vintage, 1992)                           | [ ]  |
-| 6      | [Typescript documentation](https://typescriptlang.org/)                     | [ ]  |
-| 7      | [Redux Documentation](https://redux.js.org/)                                | [ ]  |
-| 8      | [VueJS Documentation](https://vuejs.org/v2/guide/)                          | [ ]  |
-| 9      | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) | [ ]  |
-| 10     | Confessions Of an Economic Hitman by John Perkins                           | [ ]  |
+| Serial | Book / Article / Series / Code                                                                 | Read |
+| ------ | ---------------------------------------------------------------------------------------------- | ---- |
+| 1      | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)                             | [ ]  |
+| 2      | [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) | [ ]  |
+| 3      | [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)                    | [ ]  |
+| 4      | Alex's Adventures in Numberland by Alex Bellos                                                 | [ ]  |
+| 5      | Discrete Mathematics And Functional Programming by Thomas VanDrunen                            | [ ]  |
+| 6      | Alan Turing, the Enigma A. Hodges (Vintage, 1992)                                              | [ ]  |
+| 7      | [Typescript documentation](https://typescriptlang.org/)                                        | [ ]  |
+| 8      | [Redux Documentation](https://redux.js.org/)                                                   | [ ]  |
+| 9      | [VueJS Documentation](https://vuejs.org/v2/guide/)                                             | [ ]  |
+| 10     | Confessions Of an Economic Hitman by John Perkins                                              | [ ]  |
+
 ## Books I read in 2018
 
 | Serial | Book                                                                  | Read |
@@ -84,7 +85,7 @@ Books I am reading related to computer science.
 | 54     | [With Heart in Mind]()                                                                                                                                                                                                                                                                                                                                                                                                              | [ ]  |
 | 55     | [Embracing the Divine Feminine: The Song of Songs]()                                                                                                                                                                                                                                                                                                                                                                                | [ ]  |
 | 56     | [A New Buddhist Path]()                                                                                                                                                                                                                                                                                                                                                                                                             | [ ]  |
-| 57     | [God’s Message to the World]()                                                                                                                                                                                                                                                                                                                                                                                                     | [ ]  |
+| 57     | [God’s Message to the World]()                                                                                                                                                                                                                                                                                                                                                                                                      | [ ]  |
 | 58     | [The Religion of the Future]()                                                                                                                                                                                                                                                                                                                                                                                                      | [ ]  |
 | 59     | [Six Easy Pieces By Richard Feynman]()                                                                                                                                                                                                                                                                                                                                                                                              | [ ]  |
 | 60     | [Six Not so Easy Pieces By Richard Feynman]()                                                                                                                                                                                                                                                                                                                                                                                       | [ ]  |
