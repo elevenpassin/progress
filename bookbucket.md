@@ -2,7 +2,7 @@
 
 Books I am reading related to computer science.
 
-## 2019 I will read in 2019
+## 2019 I want to read in 2019
 
 | Serial | Book / Article / Series / Code                                                                 | Read |
 | ------ | ---------------------------------------------------------------------------------------------- | ---- |

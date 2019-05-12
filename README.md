@@ -12,19 +12,14 @@ Date started: 1/1/2019
 
 - [ ] Love yourself more <3
 - [ ] VOICE TRAINING GURL
-- [ ] Ship Pavonine App Version 1 & 2
 - [ ] Do consistant yoga / jogging
-- [ ] Read 10 books (5 fiction, 5 non fiction) (or 5 is good enough!)
-- [ ] Finish 6 Courses at least.
+- [ ] Read 3 books
+- [ ] Finish 3 Courses at least.
 - [ ] Get rid of Google, Twitter, Facebook and Microsoft from your life as much as possible
-- [ ] Build 3 story based games
-  - [ ] Game 1
-  - [ ] Game 2
-  - [ ] Game 3
-- [ ] Write 30 articles on various topics
+- [ ] Build 1 story based games
+- [ ] Write 15 articles on various topics
 - [ ] Rock climbing, hiking, moutain climbing :3 :O
 - [ ] Less outside food!
-- [ ] Build a fully featured note taking app
 
 ## Books for 2019
 
