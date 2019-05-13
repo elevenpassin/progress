@@ -25,6 +25,7 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 
 ### Curriculum
 
+- [ ] Project: Recipes full stack server
 - [ ] Book: [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)
 - [ ] Project: Revamp Modern Pomodoro
 - [ ] Specialization: [Career Success Specialization](https://www.coursera.org/specializations/career-success)
@@ -34,7 +35,7 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 - [ ] Book: [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 - [ ] Project: Implement a full stack alternative to twitter.
 - [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
-- [ ] Assignment: Learn about CSS features in depth via MDN.
+- [ ] Assignment: Learn about CSS features in depth via MDN / Articles / Courses.
 - [ ] Project: Create 100 artworks with pure CSS every week.
 - [ ] Course: [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 - [ ] Book: [Automate the boring stuff with python](https://automatetheboringstuff.com/)
@@ -47,12 +48,14 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 - [ ] Book: [How to design programs](http://htdp.org/)
 - [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
 - [ ] Project: Implement a simple calculator in Racket
+- [ ] Project: Write 5 articles on Racket
 - [ ] Book: [Beautiful Racket](https://beautifulracket.com/)
 - [ ] Project: Implement a web server in Racket
 - [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 - [ ] Project: Implement a hackernews clone in Racket
 - [ ] Book: [Realm Of Racket](https://www.realmofracket.com/)
 - [ ] Project: Create a video game in Racket
+- [ ] Project: Write 5 articles on Racket again!
 - [ ] Course: [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x)
 - [ ] Book: Alex's Adventures in Numberland by Alex Bellos
 - [ ] Course: [Algebra I](https://www.khanacademy.org/math/algebra)
@@ -117,7 +120,7 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 - [ ] Specialization: [Introduction to Project Management Principles and Practices Specialization](https://www.coursera.org/specializations/project-management)
 - [ ] Course: [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
 - [ ] Project: Create 30 sketches in p5js
-- [ ] [Digital Marketing Specialization](https://www.coursera.org/specializations/digital-marketing)
+- [ ] Specialization: [Digital Marketing Specialization](https://www.coursera.org/specializations/digital-marketing)
 
 #### Course dump
 
