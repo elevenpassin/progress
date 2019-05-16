@@ -10,7 +10,7 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 
 - [ ] Love yourself more <3
 - [ ] VOICE TRAINING GURL
-- [ ] Do consistant yoga / jogging
+- [ ] Do consistant yoga / jogging (Or Gym)
 - [ ] Read 3 books
 - [ ] Finish 3 Courses at least.
 - [ ] Get rid of Google, Twitter, Facebook and Microsoft from your life as much as possible
@@ -78,6 +78,7 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 - [ ] Game: Tic-Tac-Toe (unbeatable AI opponent) [Wikipedia](http://en.wikipedia.org/wiki/Tic-tac-toe)
 - [ ] Game: Minesweeper [Wikipedia](<http://en.wikipedia.org/wiki/Minesweeper_(computer_game)>)
 - [ ] Game: Sokoban [Wikipedia](https://en.wikipedia.org/wiki/Sokoban)
+- [ ] Course: [Google Computer Science Foundations Path](https://techdevguide.withgoogle.com/paths/foundational/)
 - [ ] Game: Snake [Wikipedia](<http://en.wikipedia.org/wiki/Snake_(video_game)>)
 - [ ] Game: Pong (Reference Tutorial [Pong - Tutorials 1 through 7](http://www.zekechan.net/tag/pong/))
 - [ ] Game: Galaga
@@ -121,50 +122,45 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 - [ ] Course: [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info)
 - [ ] Project: Create 30 sketches in p5js
 - [ ] Specialization: [Digital Marketing Specialization](https://www.coursera.org/specializations/digital-marketing)
+- [ ] Project: Build a better resume
+- [ ] Project: Start my own magazine on Anarchism
+- [ ] Project: Build a really good business portifolio
+- [ ] Project: 5 more projects relevant to the above specialization
+- [ ] Specialization: [Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations)
+- [ ] Course: [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [ ] Course: [Design and Analysis Of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+- [ ] Challenge: Win 2 algorithms related hackathons
+- [ ] Course: [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+- [ ] Course: [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code)
+- [ ] Course: [Calculus One](https://www.coursera.org/learn/calculus1)
+- [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [ ] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+- [ ] Project: Solve all of the EulerProject & RosettaStone challenges
+- [ ] Challenge: Win 10 algorithms related hackathons
 
 #### Course dump
 
 A list of things I really want to go through, but you can only do so many at a given time! I think this is the place I'll put anything else that comes up to my interest. Later on as I finish tasks, I will add tasks to the course. :)
 
-- [ ] [Business Foundations Specialization](https://www.coursera.org/specializations/wharton-business-foundations)
+- [ ] [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
 
-* [ ] [Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
-* [ ] [Design and Analysis Of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+- [ ] [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
 
-* [ ] [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+- [ ] [Google Computer Science Advanced Path](https://techdevguide.withgoogle.com/paths/advanced/)
 
-* [ ] [Learn to Program: Crafting Quality Code](https://www.coursera.org/learn/program-code)
+- [ ] [Generative Art and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity/info)
 
-* [ ] [Google Computer Science Foundations Path](https://techdevguide.withgoogle.com/paths/foundational/)
+- [ ] [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 
-* [ ] [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
+- [ ] [Google Computer Science Path for Faculty](https://techdevguide.withgoogle.com/paths/faculty/)
 
-* [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 
-* [ ] [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning)
+- [ ] [Creative Applications of Deep Learning with TensorFlow II](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-ii/info)
 
-* [ ] [Google Computer Science Advanced Path](https://techdevguide.withgoogle.com/paths/advanced/)
-
-* [ ] [Generative Art and Computational Creativity](https://www.kadenze.com/courses/generative-art-and-computational-creativity/info)
-
-* [ ] [Machine Learning for Musicians and Artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
-
-* [ ] [Google Computer Science Path for Faculty](https://techdevguide.withgoogle.com/paths/faculty/)
-
-* [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
-
-* [ ] [Creative Applications of Deep Learning with TensorFlow II](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-ii/info)
-
-* [ ] [Creative Applications of Deep Learning with TensorFlow III](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iii-iii/info)
-
-* [ ] [Calculus One](https://www.coursera.org/learn/calculus1)
-
-* [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
-
-* [ ] [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-
-* [ ] [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+- [ ] [Creative Applications of Deep Learning with TensorFlow III](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iii-iii/info)
 
 * [ ] [Analysis Of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
 
