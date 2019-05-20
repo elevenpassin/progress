@@ -28,12 +28,15 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 - [ ] Project: Recipes full stack server
 - [ ] Book: [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)
 - [ ] Project: Revamp Modern Pomodoro
+- [ ] Book: Man's Worldly Goods - The Story of the Wealth Of Nations by Leo Huberman
 - [ ] Specialization: [Career Success Specialization](https://www.coursera.org/specializations/career-success)
 - [ ] Book: [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ] Specialisation: All FCC Certifications
+- [ ] Book: Geek Girl Rising: Inside the Sisterhood Shaking Up Tech
 - [ ] Project: Implement a full stack alternative to goodreads.
 - [ ] Book: [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 - [ ] Project: Implement a full stack alternative to twitter.
+- [ ] Book: The Conquest Of Bread - Peter Krotopkin
 - [ ] Course: [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 - [ ] Assignment: Learn about CSS features in depth via MDN / Articles / Courses.
 - [ ] Project: Create 100 artworks with pure CSS every week.
