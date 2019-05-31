@@ -26,6 +26,10 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 ### Curriculum
 
 - [ ] Project: Recipes full stack server
+    - [ ] UI for BigOven API (http://api2.bigoven.com/)
+    - [ ] Scrap data from BigOven API
+    - [ ] Create a search engine via elasticsearch
+    - [ ] Create server
 - [ ] Book: [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)
 - [ ] Project: Revamp Modern Pomodoro
 - [ ] Specialization: [Career Success Specialization](https://www.coursera.org/specializations/career-success)
