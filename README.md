@@ -148,7 +148,8 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 #### Course dump
 
 A list of things I really want to go through, but you can only do so many at a given time! I think this is the place I'll put anything else that comes up to my interest. Later on as I finish tasks, I will add tasks to the course. :)
-
+- [ ] [Achieving Personal and Professional Success Specialization](https://www.coursera.org/specializations/wharton-success)
+- [ ] [Strategic Leadership and Management Specialization](https://www.coursera.org/specializations/strategic-leadership)
 - [ ] [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
 
 - [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning)
