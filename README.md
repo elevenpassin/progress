@@ -26,6 +26,10 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 ### Curriculum
 
 - [ ] Project: Recipes full stack server
+    - [ ] UI for BigOven API (http://api2.bigoven.com/)
+    - [ ] Scrap data from BigOven API
+    - [ ] Create a search engine via elasticsearch
+    - [ ] Create server
 - [ ] Book: [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)
 - [ ] Project: Revamp Modern Pomodoro
 - [ ] Book: Man's Worldly Goods - The Story of the Wealth Of Nations by Leo Huberman
@@ -144,7 +148,8 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 #### Course dump
 
 A list of things I really want to go through, but you can only do so many at a given time! I think this is the place I'll put anything else that comes up to my interest. Later on as I finish tasks, I will add tasks to the course. :)
-
+- [ ] [Achieving Personal and Professional Success Specialization](https://www.coursera.org/specializations/wharton-success)
+- [ ] [Strategic Leadership and Management Specialization](https://www.coursera.org/specializations/strategic-leadership)
 - [ ] [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
 
 - [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning)
