@@ -11,11 +11,11 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 - [ ] Love yourself more <3
 - [ ] VOICE TRAINING GURL
 - [ ] Do consistant yoga / jogging (Or Gym)
-- [ ] Read 3 books
-- [ ] Finish 3 Courses at least.
+- [ ] Read 3 books (1 / 3)
+- [ ] Finish 3 Courses at least. (0 / 3)
 - [ ] Get rid of Google, Twitter, Facebook and Microsoft from your life as much as possible
-- [ ] Build 1 story based games
-- [ ] Write 15 articles on various topics
+- [ ] Build 1 story based games (0 / 0)
+- [ ] Write 15 articles on various topics (0 / 15)
 - [ ] Rock climbing, hiking, moutain climbing :3 :O
 - [ ] Less outside food!
 
