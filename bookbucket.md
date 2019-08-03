@@ -125,3 +125,15 @@ Books I am reading related to computer science.
 | 95     | The Hitchhiker's Guide to the Galaxy by Douglas Adams                                                                                                                                                                                                                                                                                                                                                                               | [ ]  |
 | 96 | Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm | [ ] | 
 | 97 | Head First Design Patterns (A Brain Friendly Guide) by Elisabeth Freeman, Eric Freeman, Bert Bates and Kathy Sierra | [ ] |
+| 98 | Managing Humans: Biting and Humorous Tales of a Software Engineering Manager  by Michael Lopp | [ ] |
+| 99 | High Output Management by Andrew S. Grove | [ ] |
+| 100 | The Lean Startup: How Constant Innovation Creates Radically Successful Businesses by Eric Ries | [ ] |
+| 101 | The Design of Everyday Things by Don Norman  | [ ] |
+| 102 | Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink | [ ] |
+| 103 | The Old Man and the Sea (Children Classics) by Ernest Hemingway | [ ] |
+| 104 | We Should All Be Feminists by Chimamanda Ngozi Adichie | [ ] |
+| 105 | Transgender History, second edition by Susan Stryker | [ ] |
+| 106 | The Transgender Studies Reader 2: Volume 2 by Susan Stryker and Aren Aizura | [ ] |
+| 107 | The Transgender Studies Reader: Volume 1 by Susan Stryker and Stephen Whittle | [ ] |
+| 108 | Whipping Girl: A Transsexual Woman on Sexism and the Scapegoating of Femininity by Julia Serano and Hachette Audio | [ ] |  
+| 109 |  If I Was Your Girl by Meredith Russo | [ ] | 
