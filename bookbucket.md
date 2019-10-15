@@ -12,8 +12,7 @@ Books I am reading related to computer science.
 | 4      | Alex's Adventures in Numberland by Alex Bellos                          | [ ]  |
 | 5      | The Pragmatic Programmer                                                | [ ]  |
 | 6      | Discrete Mathematics And Functional Programming by Thomas VanDrunen     | [ ]  |
-| 7      | Alan Turing, the Enigma A. Hodges (Vintage, 1992)                       | [ ]  |
-| 8      | We Should All Be Feminists by Chimamanda Ngozi Adichie                  | [x]  |
+| 7      | We Should All Be Feminists by Chimamanda Ngozi Adichie                  | [x]  |
 
 ## Books I read in 2018
 
