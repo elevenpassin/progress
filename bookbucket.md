@@ -8,11 +8,14 @@ Books I am reading related to computer science.
 | ------ | ----------------------------------------------------------------------- | ---- |
 | 1      | Confessions Of an Economic Hitman by John Perkins                       | [x]  |
 | 2      | [Eloquent JavaScript 3rd Edition](https://eloquentjavascript.net/)      | [ ]  |
-| 3      | Man's worldly goods, the story of the wealth of the man By Leo Huberman | [ ]  |
+| 3      | Man's worldly goods, the story of the wealth of the man By Leo Huberman | [x]  |
 | 4      | Alex's Adventures in Numberland by Alex Bellos                          | [ ]  |
 | 5      | The Pragmatic Programmer                                                | [ ]  |
 | 6      | Discrete Mathematics And Functional Programming by Thomas VanDrunen     | [ ]  |
 | 7      | We Should All Be Feminists by Chimamanda Ngozi Adichie                  | [x]  |
+| 8      | High Output Management Paperback by Andrew S. Grove                     | [ ]  |
+| 9      | The Lean Startup by Eric Ries                                           | [ ]  |
+| 10     | Zero to One by Peter Thiel                                              | [ ]  |
 
 ## Books I read in 2018
 
