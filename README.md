@@ -8,10 +8,10 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 
 ### Goals (Overall, in order of priority)
 
-- [ ] Love yourself more <3
+- [x] Love yourself more <3
 - [ ] VOICE TRAINING GURL
 - [ ] Do consistant yoga / jogging (Or Gym)
-- [ ] Read 3 books (1 / 3)
+- [x] Read 3 books (3 / 3)
 - [ ] Finish 3 Courses at least. (0 / 3)
 - [ ] Get rid of Google, Twitter, Facebook and Microsoft from your life as much as possible
 - [ ] Build 1 story based games (0 / 0)
