@@ -4,14 +4,17 @@ Books I am reading related to computer science.
 
 ## Books I want to read in 2020
 
-| Serial | Book                                                                | Status |
-| ------ | ------------------------------------------------------------------- | ------ |
-| 1      | High Output Management by Andrew S. Grove                           | [ ]    |
-| 2      | The Pragmatic Programmer                                            | [ ]    |
-| 3      | Alex's Adventures in Numberland by Alex Bellos                      | [ ]    |
-| 4      | The Agile Samurai                                                   | [ ]    |
-| 5      | Discrete Mathematics And Functional Programming by Thomas VanDrunen | [ ]    |
-| 6      | The Lean Startup by Eric Ries                                       | [ ]    |
+| Serial | Book                                                                       | Status |
+| ------ | -------------------------------------------------------------------------- | ------ |
+| 1      | High Output Management by Andrew S. Grove                                  | [ ]    |
+| 2      | The Pragmatic Programmer                                                   | [ ]    |
+| 3      | Alex's Adventures in Numberland by Alex Bellos                             | [ ]    |
+| 4      | The Agile Samurai                                                          | [ ]    |
+| 5      | Discrete Mathematics And Functional Programming by Thomas VanDrunen        | [ ]    |
+| 6      | The Lean Startup by Eric Ries                                              | [ ]    |
+| 7      | [The Art Of Node](https://github.com/maxogden/art-of-node#the-art-of-node) | [ ]    |
+| 8      | CSS in Depth by Keith J Grant                                              | [ ]    |
+| 9      | Walkaway: A Novel by Cory Doctorow                                         | [ ]    |
 
 ## Books I read in 2019
 
@@ -154,3 +157,8 @@ Books I am reading related to computer science.
 | 117    | The Total Money Makeover                                                                                                                                                                                                                                                                                                                                                                                                            | []     |
 | 118    | The Little Book of Common Sense Investing                                                                                                                                                                                                                                                                                                                                                                                           | []     |
 | 119    | Think and Grow Rich                                                                                                                                                                                                                                                                                                                                                                                                                 | []     |
+| 120    | PROGRESSIVE WEB APPS by Jason Grigsby                                                                                                                                                                                                                                                                                                                                                                                               | [ ]    |
+| 121    | Expressive Design Systems by Yesenia Perez-Cruz                                                                                                                                                                                                                                                                                                                                                                                     | [ ]    |
+| 122    | The New CSS Layout by Rachel Andrew                                                                                                                                                                                                                                                                                                                                                                                                 | [ ]    |
+| 123    | HTML5 FOR WEB DESIGNERS by  Jeremy Keith & Rachel Andrew                                                                                                                                                                                                                                                                                                                                                                            | [ ]    |
+| 124    | SVG Animations: From Common UX Implementations to Complex Responsive Animation                                                                                                                                                                                                                                                                                                                                                      | [ ]    |

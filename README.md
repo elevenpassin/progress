@@ -4,12 +4,11 @@ A repo to track my progress over the years.
 
 I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.com/), [p1xt guides](https://github.com/P1xt/p1xt-guides) and [OSSU](https://github.com/ossu/computer-science/) and from progress files of my previous years :)
 
-## Challenge - 2019
+## Challenge - 2020
 
 ### Goals (Overall, in order of priority)
 
-
-- [ ] Read 5 books (0 / 5)
+- [ ] Read 8 books (0 / 8)
 - [ ] Finish 3 Courses at least (0 / 3)
 - [ ] Drop to 50 to 55kgs weight by the end of 2nd Quarter
 - [ ] Learn to cook a new (healthy preferred) dish every month
@@ -50,6 +49,10 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 
 ### Curriculum
 
+- [ ] Learn: Deep dive into CSS Grid, CSS Flexbox, CSS Animations
+- [ ] Project: Web Artwork
+  - [ ] Create 1 HTML / CSS artwork every weekend
+  - [ ] Take sessions on CSS Grid, Flexbox and Animations
 - [ ] Project: Recipes full stack server
     - [ ] UI for BigOven API (http://api2.bigoven.com/)
     - [ ] Scrap data from BigOven API
@@ -193,41 +196,41 @@ A list of things I really want to go through, but you can only do so many at a g
 
 - [ ] [Creative Applications of Deep Learning with TensorFlow III](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iii-iii/info)
 
-* [ ] [Analysis Of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
+- [ ] [Analysis Of Algorithms](https://www.coursera.org/learn/analysis-of-algorithms)
 
-* [ ] [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
+- [ ] [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
 
-* [ ] [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)
+- [ ] [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)
 
-* [ ] [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
+- [ ] [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
 
-* [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
+- [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 
-* [ ] [MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
+- [ ] [MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
 
-* [ ] [Databases mini-courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+- [ ] [Databases mini-courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
-* [ ] [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+- [ ] [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 
-* [ ] [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
+- [ ] [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
 
-* [ ] [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
+- [ ] [Applied Social Network Analysis in Python](https://www.coursera.org/learn/python-social-network-analysis)
 
-* [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
+- [ ] [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 
-* [ ] [Hacker101](https://www.hacker101.com/)
+- [ ] [Hacker101](https://www.hacker101.com/)
 
-* [ ] [Cryptography I](https://www.coursera.org/learn/crypto)
+- [ ] [Cryptography I](https://www.coursera.org/learn/crypto)
 
-* [ ] [Cryptography II](https://www.coursera.org/learn/crypto2)
+- [ ] [Cryptography II](https://www.coursera.org/learn/crypto2)
 
-* [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
+- [ ] [Computer Architecture](https://www.coursera.org/learn/comparch)
 
-* [ ] [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
+- [ ] [Introduction to Cyber Security](https://www.futurelearn.com/courses/introduction-to-cyber-security)
 
-* [ ] [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
+- [ ] [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)
 
-* [ ] [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
+- [ ] [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x#!)
 
 - [ ] [Beginner C++ Game Programming DirectX](https://www.youtube.com/watch?v=PwuIEMUFUnQ&list=PLqCJpWy5FohcehaXlCIt8sVBHBFFRVWsx)
 
