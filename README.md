@@ -50,7 +50,7 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 ### Curriculum
 
 - [ ] Project: Redesign personal website with Gatsby
-- [ ] Book: Pragmatic Programmer
+- [x] Book: Pragmatic Programmer
 - [ ] Learn: Deep dive into CSS Grid, CSS Flexbox, CSS Animations
 - [ ] Project: Web Artwork
   - [ ] Create 1 HTML / CSS artwork every weekend
