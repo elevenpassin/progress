@@ -51,17 +51,26 @@ I'm following a hybrid version of [teachyourselfcs](https://www.teachyourselfcs.
 
 - [ ] Project: Redesign personal website with Gatsby
 - [x] Book: Pragmatic Programmer
+- [ ] Specialization: [Career Success Specialization](https://www.coursera.org/specializations/career-success)
+  - [ ] Course: [Communication in the 21st Century Workplace](https://www.coursera.org/learn/communication-in-the-workplace?specialization=career-success)
 - [ ] Learn: Deep dive into CSS Grid, CSS Flexbox, CSS Animations
+  - [ ] Take sessions on CSS Grid, Flexbox and Animations
+- [ ] Project: Revamp Modern Pomodoro
+- [ ] Course: [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
+- [ ] Book: The Agile Samurai
+- [ ] Project: Recipes full stack server
+  - Implement a full stack server by using agile methodologies to plan out the project
+  - TechStack:
+    - Frontend: VueJS, Vuex
+    - Backend: Django / Python (API), Search using ElasticSearch
+    - Database: PostgreSQL
+  - [ ] UI for BigOven API (http://api2.bigoven.com/)
+  - [ ] Scrap data from BigOven API
+  - [ ] Create server
+  - [ ] Create a search engine via elasticsearch
 - [ ] Project: Web Artwork
   - [ ] Create 1 HTML / CSS artwork every weekend
-  - [ ] Take sessions on CSS Grid, Flexbox and Animations
-- [ ] Project: Recipes full stack server
-    - [ ] UI for BigOven API (http://api2.bigoven.com/)
-    - [ ] Scrap data from BigOven API
-    - [ ] Create a search engine via elasticsearch
-    - [ ] Create server
-- [ ] Project: Revamp Modern Pomodoro
-- [ ] Specialization: [Career Success Specialization](https://www.coursera.org/specializations/career-success)
+- [ ] Specialization: [Achieving Personal and Professional Success Specialization](https://www.coursera.org/specializations/wharton-success)
 - [ ] Book: [Javascript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 - [ ] Specialisation: All FCC Certifications
 - [ ] Book: Geek Girl Rising: Inside the Sisterhood Shaking Up Tech
@@ -212,7 +221,6 @@ A list of things I really want to go through, but you can only do so many at a g
 
 - [ ] [Databases mini-courses](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
 
-- [ ] [Agile Software Development](https://www.edx.org/course/agile-software-development-ethx-asd-1x)
 
 - [ ] [Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining)
 

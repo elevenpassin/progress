@@ -7,7 +7,7 @@ Books I am reading related to computer science.
 | Serial | Book                                                                       | Status |
 | ------ | -------------------------------------------------------------------------- | ------ |
 | 1      | High Output Management by Andrew S. Grove                                  | [ ]    |
-| 2      | The Pragmatic Programmer                                                   | [ ]    |
+| 2      | The Pragmatic Programmer                                                   | [x]    |
 | 3      | Alex's Adventures in Numberland by Alex Bellos                             | [ ]    |
 | 4      | The Agile Samurai                                                          | [ ]    |
 | 5      | Discrete Mathematics And Functional Programming by Thomas VanDrunen        | [ ]    |
