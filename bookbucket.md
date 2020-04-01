@@ -6,7 +6,7 @@ Books I am reading related to computer science.
 
 | Serial | Book                                                                       | Status |
 | ------ | -------------------------------------------------------------------------- | ------ |
-| 1      | High Output Management by Andrew S. Grove                                  | [ ]    |
+| 1      | High Output Management by Andrew S. Grove                                  | [x]    |
 | 2      | The Pragmatic Programmer                                                   | [x]    |
 | 3      | Alex's Adventures in Numberland by Alex Bellos                             | [ ]    |
 | 4      | The Agile Samurai                                                          | [ ]    |
@@ -15,6 +15,7 @@ Books I am reading related to computer science.
 | 7      | [The Art Of Node](https://github.com/maxogden/art-of-node#the-art-of-node) | [ ]    |
 | 8      | CSS in Depth by Keith J Grant                                              | [ ]    |
 | 9      | Walkaway: A Novel by Cory Doctorow                                         | [ ]    |
+| 10     | HBR Emotional Intelligence, Resilience                                     | [x]    |
 
 ## Books I read in 2019
 
