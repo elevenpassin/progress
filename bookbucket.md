@@ -16,6 +16,13 @@ Books I am reading related to computer science.
 | 8      | CSS in Depth by Keith J Grant                                              | [ ]    |
 | 9      | Walkaway: A Novel by Cory Doctorow                                         | [ ]    |
 | 10     | HBR Emotional Intelligence, Resilience                                     | [x]    |
+| 11     | Dreadnought by April Daniels                                               | [x]    |
+| 12     | If I was your girl by Meridith Russo                                       | [x]    |
+| 13     | Anatomy of Hate                                                            | [ ]    |
+| 14     | A programmer's introduction to Mathematics                                 | [ ]    |
+| 15     | How to Design Programs                                                     | [ ]    |
+| 16     | Python Data Science Book by Jake VanderPlas                                | [ ]    |
+| 17     | How to win friends & influence people                                      | [ ]    |
 
 ## Books I read in 2019
 
