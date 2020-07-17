@@ -8,7 +8,7 @@ Books I am reading related to computer science.
 | ------ | -------------------------------------------------------------------------- | ------ |
 | 1      | High Output Management by Andrew S. Grove                                  | [x]    |
 | 2      | The Pragmatic Programmer                                                   | [x]    |
-| 3      | Alex's Adventures in Numberland by Alex Bellos                             | [ ]    |
+| 3      | Alex's Adventures in Numberland by Alex Bellos                             | [x]    |
 | 4      | The Agile Samurai                                                          | [ ]    |
 | 5      | Discrete Mathematics And Functional Programming by Thomas VanDrunen        | [ ]    |
 | 6      | The Lean Startup by Eric Ries                                              | [ ]    |
